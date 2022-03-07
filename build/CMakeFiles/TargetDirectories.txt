@@ -1,0 +1,3 @@
+D:/buffercircle/build/CMakeFiles/ALL_BUILD.dir
+D:/buffercircle/build/CMakeFiles/ZERO_CHECK.dir
+D:/buffercircle/build/src/CMakeFiles/CircleBuffer.dir
